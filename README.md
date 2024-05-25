@@ -1,3 +1,10 @@
+# student name               ID                   Section
+
+Natnael Getu            UGR/23830/13               3
+
+
+
+
 # Learn Solidity Course Solutions  
  
 This repository provides solutions to the code exercises of the Alchemy University course 
